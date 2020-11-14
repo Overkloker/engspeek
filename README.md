@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Overkloker/engspeek.svg?branch=master)](https://travis-ci.org/Overkloker/engspeek)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/917c0b75-62c1-4efe-bf08-0f74c9757d9d/deploy-status)](https://app.netlify.com/sites/paul-shynkaruk/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
