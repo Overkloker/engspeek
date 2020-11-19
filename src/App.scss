@@ -1,7 +1,11 @@
-$colorBlack: #000;
-$colorYellow: #a28518;
-
 .app {
-  background-color: $colorBlack;
+  background-color: $colorMain;
   min-height: 100vh;
 }
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+
